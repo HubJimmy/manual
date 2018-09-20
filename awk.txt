@@ -1,6 +1,8 @@
-1.	在shell script首行指定 
-	#! /bin/awk -f
-	即可直接运行
-2.	awk -f script file
-	把命令写在script里
+1.	在文件首行指定 #! /bin/awk -f 可直接调用awk运行该文件
+2.	-f file 调用文件里的命令
 3.	用#注释
+4.	-v name=value 指定变量
+5. 	awk '{print nd}' nd=ff1 f1 nd=si - nd=ff2 f2
+6.	AWKPATH
+7.	exp ~ /regexp/
+8.	exp !~ /regexp/

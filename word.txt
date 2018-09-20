@@ -1,0 +1,4 @@
+1.	colon	Ã°ºÅ
+2.	slash	Ð±¸Ë
+3.	backslash	·´Ð±¸Ü
+4.	constant	³£Á¿
