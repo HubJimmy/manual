@@ -6,3 +6,6 @@
 6.	AWKPATH
 7.	exp ~ /regexp/
 8.	exp !~ /regexp/
+9.	\n 叫做 newline character
+10.	regexp中，|的优先级最低
+11.	IGNORECASE = 1，忽略大小写

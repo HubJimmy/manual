@@ -2,3 +2,8 @@
 2.	slash	斜杆
 3.	backslash	反斜杠
 4.	constant	常量
+5.	precede	在……之前
+6.	square bracket	方括号
+7.	hyphen	连字符
+8.	endpoint	端点
+9.	substitution	替换
