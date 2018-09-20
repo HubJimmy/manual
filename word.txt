@@ -1,4 +1,4 @@
-1.	colon	Ã°ºÅ
-2.	slash	Ğ±¸Ë
-3.	backslash	·´Ğ±¸Ü
-4.	constant	³£Á¿
+1.	colon	å†’å·
+2.	slash	æ–œæ†
+3.	backslash	åæ–œæ 
+4.	constant	å¸¸é‡
