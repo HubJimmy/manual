@@ -1,0 +1,6 @@
+1.	在shell script首行指定 
+	#! /bin/awk -f
+	即可直接运行
+2.	awk -f script file
+	把命令写在script里
+3.	用#注释
