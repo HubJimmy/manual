@@ -7,3 +7,7 @@
 7.	hyphen	连字符
 8.	endpoint	端点
 9.	substitution	替换
+10.	decimal	十进制的
+11.	brace	大括号
+12.	arbitrary	随意的
+13.	parentheses	圆括号

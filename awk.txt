@@ -9,3 +9,4 @@
 9.	\n 叫做 newline character
 10.	regexp中，|的优先级最低
 11.	IGNORECASE = 1，忽略大小写
+12. range pattern:	awk '$1 == "on", $1 == "off"' myfile
